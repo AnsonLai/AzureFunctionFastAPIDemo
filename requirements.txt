@@ -1,0 +1,6 @@
+aiohttp
+aiofiles
+azure-functions
+bonnette
+fastapi
+azure-storage-blob
