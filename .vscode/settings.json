@@ -7,5 +7,6 @@
   "debug.internalConsoleOptions": "neverOpen",
   "python.pythonPath": ".venv\\Scripts\\python.exe",
   "python.linting.pylintEnabled": true,
-  "python.linting.enabled": true
+  "python.linting.enabled": true,
+  "python.formatting.provider": "yapf"
 }
